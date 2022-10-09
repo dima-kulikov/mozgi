@@ -130,12 +130,20 @@ menu li:hover::after {
    }
 .spinning-text__img {
     transform: rotate(0deg);
+    width: auto;
+    @media screen and(max-width: 499px) {
+        width: 87px;
+    }
 }
 .spinning-text {
     position: absolute;
     left: 58%;
     top: 66%;
     z-index: 2;
+    @media screen and(max-width: 499px) {
+        left: 60%;
+        top: 58%;
+    }
 }
 .dot {
     width: 8px;
@@ -169,6 +177,10 @@ menu li:hover::after {
     @media screen and(max-width: 650px) {
         font-size: 34px; 
         width: 300px;
+        line-height: 37px;
+    }
+    @media screen and(max-width: 499px) {
+        width: 250px;
     }
 }
 .ellips {

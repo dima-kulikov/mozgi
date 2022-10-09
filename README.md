@@ -1,10 +1,12 @@
-https://dima-kulikov.github.io/DM-bonuses-for-video-reviews/dist/index.html
+Ссылка на готовую работу:
 
-https://dima-kulikov.github.io//DM-bonuses-for-video-reviews/
+https://dima-kulikov.github.io/mozgi/dist/index.html
 
-<img class="img" width="100%" src="gulp.png" alt="11" />
+<!-- https://dima-kulikov.github.io//DM-bonuses-for-video-reviews/ -->
 
-<!-- ![Banner](./gulp.png) -->
+<!-- <img class="img" width="100%" src="gulp.png" alt="11" />
+
+
 
 <h1 class="text-center">Gulp </h1>
 <h2 class="text-center">Стартовая сборка для верстки</h2>
@@ -35,4 +37,4 @@ https://dima-kulikov.github.io//DM-bonuses-for-video-reviews/
   <li>webp в css, все изображения которые в css, ставит формат webp
     (неработает, нужнапроверка!);</li>
   <li>есть файл normalize, (подводит под один стандарт css настройки разных браузеров.); </li>
-</ul>
+</ul> -->
